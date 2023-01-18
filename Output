@@ -1,0 +1,359 @@
+ MAIN MENU 
+1.Admin mode
+2.Reserve and Cancel Ticket for user
+3.Exit 
+
+Enter your choice : 
+1
+
+Enter the Admin Password: 
+Chinnu
+
+ --- ADMINISTRATOR MENU --- 
+
+1. Add Train details 
+
+2. Display Train details 
+
+3. User Management 
+
+4. Display Passenger details 
+
+5. Return to Main Menu 
+
+Enter your choice : 
+1
+
+--Add New details--
+
+Train no: 
+24680
+Train Name: 
+PuneExpress
+Boarding point: 
+Tirupati
+Destination pt: 
+Pune
+Date of travel
+
+Day: 
+23
+Month: 
+01
+Year: 
+2023
+
+******Train details added succesfully!!****
+
+ --- ADMINISTRATOR MENU --- 
+
+1. Add Train details 
+
+2. Display Train details 
+
+3. User Management 
+
+4. Display Passenger details 
+
+5. Return to Main Menu 
+
+Enter your choice : 
+2
+
+|Train No.	|Train Name		|Boarding pt.		 |Destination pt.	|Day-Month-Year
+
+|8976		|VandeBharathExpress	|Vizag	|Secunderabad		|12-3-2023
+
+
+|Train No.	|Train Name		|Boarding pt.		 |Destination pt.	|Day-Month-Year
+
+|89769		|VandeBharathExpress	|secunderabad	|vishakapatnam		|23-4-2023
+
+
+|Train No.	|Train Name		|Boarding pt.		 |Destination pt.	|Day-Month-Year
+
+|1234		|SeshadriExpress	|Tirupati	|chennai		|12-1-2023
+
+
+|Train No.	|Train Name		|Boarding pt.		 |Destination pt.	|Day-Month-Year
+
+|24680		|PuneExpress	|Tirupati	|Pune		|23-1-2023
+
+
+ --- ADMINISTRATOR MENU --- 
+
+1. Add Train details 
+
+2. Display Train details 
+
+3. User Management 
+
+4. Display Passenger details 
+
+5. Return to Main Menu 
+
+Enter your choice : 
+3
+
+---WELCOME TO THE USER MANAGEMENT MENU---
+
+1. Add User details
+
+2. Display details
+
+3. Return to the main
+
+Enter your choice: 
+1
+
+Create your id:
+Dileep123
+Create the Password: 
+Dileep@123
+
+You set password on date: 2023-01-18
+
+**User details added succesfully!!**
+1. Add User details
+
+2. Display details
+
+3. Return to the main
+
+Enter your choice: 
+2
+
+| User ID: 	 |Password:
+
+| 1234	 | Sai@123
+
+
+
+| User ID: 	 |Password:
+
+| suri123	 | suri@123
+
+
+
+| User ID: 	 |Password:
+
+| Dileep123	 | Dileep@123
+
+
+1. Add User details
+
+2. Display details
+
+3. Return to the main
+
+Enter your choice: 
+3
+
+ --- ADMINISTRATOR MENU --- 
+
+1. Add Train details 
+
+2. Display Train details 
+
+3. User Management 
+
+4. Display Passenger details 
+
+5. Return to Main Menu 
+
+Enter your choice : 
+5
+ MAIN MENU 
+1.Admin mode
+2.Reserve and Cancel Ticket for user
+3.Exit 
+
+Enter your choice : 
+2
+
+    Login     
+
+Enter your ID : 
+Dileep123
+Enter your Password : 
+Dileep@123
+
+1.Reserve
+2.Cancel
+3.Enquiry
+4.Return to the main menu
+
+Enter your choice:
+1
+
+
+ Enter passenger name: Chinnu
+ Enter passenger id=104
+ Enter passenger seat no=23
+ Enter passenger train no=24680
+You should pay: 223rs
+
+***Ticket reserved succesfully!!***
+
+1.Reserve
+2.Cancel
+3.Enquiry
+4.Return to the main menu
+
+Enter your choice:
+3
+
+|Train No.	|Train Name		|Boarding pt.		 |Destination pt.	|Day-Month-Year
+
+|8976		|VandeBharathExpress	|Vizag	|Secunderabad		|12-3-2023
+
+
+|Train No.	|Train Name		|Boarding pt.		 |Destination pt.	|Day-Month-Year
+
+|89769		|VandeBharathExpress	|secunderabad	|vishakapatnam		|23-4-2023
+
+
+|Train No.	|Train Name		|Boarding pt.		 |Destination pt.	|Day-Month-Year
+
+|1234		|SeshadriExpress	|Tirupati	|chennai		|12-1-2023
+
+
+|Train No.	|Train Name		|Boarding pt.		 |Destination pt.	|Day-Month-Year
+
+|24680		|PuneExpress	|Tirupati	|Pune		|23-1-2023
+
+
+1.Reserve
+2.Cancel
+3.Enquiry
+4.Return to the main menu
+
+Enter your choice:
+4
+Enter your user id and password correctly
+
+ MAIN MENU 
+1.Admin mode
+2.Reserve and Cancel Ticket for user
+3.Exit 
+
+Enter your choice : 
+1
+
+Enter the Admin Password: 
+Chinnu
+
+ --- ADMINISTRATOR MENU --- 
+
+1. Add Train details 
+
+2. Display Train details 
+
+3. User Management 
+
+4. Display Passenger details 
+
+5. Return to Main Menu 
+
+Enter your choice : 
+4
+ ***List of passenger****
+                                               
+
+|Pname	|PId		|Seat No..	 |Train No.
+
+|suri		|102		|14		|8976
+
+
+|Pname	|PId		|Seat No..	 |Train No.
+
+|Chinnu		|104		|23		|24680
+
+
+ --- ADMINISTRATOR MENU --- 
+
+1. Add Train details 
+
+2. Display Train details 
+
+3. User Management 
+
+4. Display Passenger details 
+
+5. Return to Main Menu 
+
+Enter your choice : 
+5
+ MAIN MENU 
+1.Admin mode
+2.Reserve and Cancel Ticket for user
+3.Exit 
+
+Enter your choice : 
+2
+
+    Login     
+
+Enter your ID : 
+Dileep123
+Enter your Password : 
+Dileep@123
+
+1.Reserve
+2.Cancel
+3.Enquiry
+4.Return to the main menu
+
+Enter your choice:
+3
+
+|Train No.	|Train Name		|Boarding pt.		 |Destination pt.	|Day-Month-Year
+
+|8976		|VandeBharathExpress	|Vizag	|Secunderabad		|12-3-2023
+
+
+|Train No.	|Train Name		|Boarding pt.		 |Destination pt.	|Day-Month-Year
+
+|89769		|VandeBharathExpress	|secunderabad	|vishakapatnam		|23-4-2023
+
+
+|Train No.	|Train Name		|Boarding pt.		 |Destination pt.	|Day-Month-Year
+
+|1234		|SeshadriExpress	|Tirupati	|chennai		|12-1-2023
+
+
+|Train No.	|Train Name		|Boarding pt.		 |Destination pt.	|Day-Month-Year
+
+|24680		|PuneExpress	|Tirupati	|Pune		|23-1-2023
+
+
+1.Reserve
+2.Cancel
+3.Enquiry
+4.Return to the main menu
+
+Enter your choice:
+2
+
+
+Enter passenger id to cancel the ticket: 102
+Ticket cancelled!!
+
+1.Reserve
+2.Cancel
+3.Enquiry
+4.Return to the main menu
+
+Enter your choice:
+4
+Enter your user id and password correctly
+
+ MAIN MENU 
+1.Admin mode
+2.Reserve and Cancel Ticket for user
+3.Exit 
+
+Enter your choice : 
+3
+
+Process finished with exit code 0
